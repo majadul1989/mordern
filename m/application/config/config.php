@@ -20,7 +20,7 @@ $config['title'] = $_SERVER['HTTP_HOST'];
 | environments.
 |
 */
-$config['base_url'] = 'http://localhost/modern/m/';
+$config['base_url'] = 'https://phpstack-933448-3257866.cloudwaysapps.com';
 
 /*
 |--------------------------------------------------------------------------
